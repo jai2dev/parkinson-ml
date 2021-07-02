@@ -1,0 +1,2 @@
+web: gunicorn app:app --preload
+herkou ps:scale web=1
