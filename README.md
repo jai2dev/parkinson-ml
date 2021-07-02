@@ -1,7 +1,7 @@
 # parkinson.ai
 A web application that can detect whether the user has parkinson's disease or not using their audio
 
-###Background : The application uses a machine learning model trained on a dataset and it predicts what is the probability of the user having parkinson's disease.
+### Background : The application uses a machine learning model trained on a dataset and it predicts what is the probability of the user having parkinson's disease.
 
 ### Deployed link : https://parkinson-ai.tech/
 
