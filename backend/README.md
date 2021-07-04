@@ -18,7 +18,7 @@
 
 5. everything else is self explanatory
 
-### Note: Please use .wav file with 24 bit
+### Note: Please use .wav file with 24 bit, you can convert your audio file using any online converter
 
 
 
