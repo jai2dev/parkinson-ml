@@ -8,7 +8,7 @@
 
 3. Inference.ipynb : inference kernel
 
-4. model.h5 : saved model
+4. modelx.h5 : saved model
 
 
 ### To run it simply start jupyter environment and make sure to install all the required packages before running the kernels
