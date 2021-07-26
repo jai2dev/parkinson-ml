@@ -3,6 +3,13 @@ A web application that predicts the probability of having parkinson's disease or
 
 ### Background : The application uses a machine learning model trained on a dataset and it predicts what is the probability of the user having parkinson's disease.
 
+### About the Disease: 
+
+Parkinson's disease is a progressive nervous system disorder that affects movement. Symptoms start gradually, sometimes starting with a barely noticeable tremor in just one hand. Tremors are common, but the disorder also commonly causes stiffness or slowing of movement.
+
+
+
+
 ### Deployed link : https://parkinson-ai.tech/
 
 ### local usage:
@@ -23,7 +30,4 @@ Each directory contains its own readme.md file, check it out for more informatio
 
 #### Note: use .wav 24 bit audio files, you can convert the audio files online
 
-### About the Disease: 
-
-Parkinson's disease is a progressive nervous system disorder that affects movement. Symptoms start gradually, sometimes starting with a barely noticeable tremor in just one hand. Tremors are common, but the disorder also commonly causes stiffness or slowing of movement.
 
