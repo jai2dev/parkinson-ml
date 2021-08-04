@@ -1,4 +1,4 @@
-## this directory is where the machine learning model was build
+## this directory contains the files related to machine learning model.
 
 ### Files Information:
 
