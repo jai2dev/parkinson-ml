@@ -1,7 +1,7 @@
 # parkinson.ai
 A web application that predicts the probability of having parkinson's disease or not using user's audio.
 
-### Background : The application uses a machine learning model trained on a dataset and it predicts what is the probability of the user having parkinson's disease.
+### Background : The application uses a machine learning model trained on a UCI ML Dataset Repository dataset and it predicts what is the probability of the user having parkinson's disease.
 
 ### About the Disease: 
 
@@ -9,6 +9,8 @@ Parkinson's disease is a progressive nervous system disorder that affects moveme
 
 
 ### Deployed link : https://parkinson-ai.tech/
+
+#### Note: use .wav 24 bit audio files, you can convert the audio files online
 
 ### local usage:
 
@@ -26,6 +28,6 @@ Parkinson's disease is a progressive nervous system disorder that affects moveme
 
 Each directory contains its own readme.md file, check it out for more information.
 
-#### Note: use .wav 24 bit audio files, you can convert the audio files online
+
 
 
